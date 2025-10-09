@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.zip
+Release_Package/
+TextSwitcher_*/
+ConverterTest/
